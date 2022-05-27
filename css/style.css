@@ -20,6 +20,15 @@ ing {
 }
 
 /* HEADER */
+.page-header {
+    display: flex;
+    justify-content: space-between;
+}
+.wrapper {
+    max-width: 1100;
+    margin: 0 auto;
+    padding: 0 4%;
+}
 .logo {
     width: 210px;
     margin-top: 14px;
