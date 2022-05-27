@@ -50,3 +50,13 @@ ing {
 .main-nav a:hover {
     color: #0bd;
 }
+
+/* Home */
+.home-content {
+    text-align: center;
+    margin-top: 10%;
+}
+.home-content p {
+    font-size: 1.125rem;
+    margin: 10px 0 42px;
+}
