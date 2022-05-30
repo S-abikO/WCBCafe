@@ -150,6 +150,12 @@ aside {
 .post-title, .post-cat {
     margin: 120px;
 }
+article img {
+    margin-bottom: 20px;
+}
+article p {
+    margin-bottom: 1rem;
+}
 /* footer */
 footer {
     background: #432;
